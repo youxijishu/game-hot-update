@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.8.0_111
+Agent-Class: com.xinyue.hot.agent.GameServerAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Created-By: Maven Integration for Eclipse
+
